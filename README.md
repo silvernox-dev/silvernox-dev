@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @silvernox-dev
 - 👀 We're an early stage startup
 - 🌱 We're currently developing NLP and CV products
-- 💞️ We're ope to collaborate on Cv projects with expertise in segmentation 
+- 💞️ We're open to collaborate on CV projects with expertise in segmentation 
 - 📫 How to reach us - github@silvernox.com
 
 <!---
